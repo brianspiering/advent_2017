@@ -1,5 +1,7 @@
 "Utilities for Advent of Code"
 
+cat = ''.join
+
 def load_data(day):
     try: 
         with open(f'data/day_{day}.txt') as f:
