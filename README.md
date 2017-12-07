@@ -8,10 +8,10 @@ Advent of Code 2017
 # Days completed
 -----
 
-1. [x]
-2. [x]
-3. [ ]
-4. [x]
-5. [ ]
-6. [x]
-7. [x]
+- [x] Day 1
+- [x] Day 2
+- [ ] Day 3
+- [x] Day 4
+- [ ] Day 5
+- [x] Day 6
+- [x] Day 7
