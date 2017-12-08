@@ -8,10 +8,27 @@ Advent of Code 2017
 # Days completed
 -----
 
-- [x] Day 1
-- [x] Day 2
-- [ ] Day 3
-- [x] Day 4
-- [ ] Day 5
-- [x] Day 6
-- [x] Day 7
+1. Day 1
+    - [x] Part I  
+    - [X] PartII  
+1. Day 2
+    - [x] Part I  
+    - [X] Part II  
+1. Day 3
+    - [ ] Part I  
+    - [ ] Part II  
+1. Day 4
+    - [x] Part I  
+    - [X] Part II  
+1. Day 5
+    - [ ] Part I  
+    - [ ] Part II  
+1. Day 6
+    - [x] Part I  
+    - [X] Part II  
+1. Day 7
+    - [x] Part I  
+    - [ ] Part II  
+1. Day 8
+    - [x] Part I  
+    - [ ] Part II  
