@@ -32,3 +32,11 @@ Advent of Code 2017
 1. Day 8
     - [x] Part I  
     - [x] Part II  
+1. Day 9
+    - [ ] Part I  
+    - [ ] Part II  
+1. Day 10
+    - [ ] Part I  
+    - [ ] Part II  
+
+
