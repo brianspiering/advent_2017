@@ -2,7 +2,7 @@
 
 def load_data(day, split=False):
     try: 
-        with open(f'data/day_{day}.txt') as f:
+        with open(f'data/day_{day:02}.txt') as f:
             if split:
                 return [line.strip() for line in f.readlines()]
             else:
