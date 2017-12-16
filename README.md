@@ -38,5 +38,21 @@ Advent of Code 2017
 1. Day 10
     - [ ] Part I  
     - [ ] Part II  
-
-
+1. Day 11
+    - [ ] Part I  
+    - [ ] Part II  
+1. Day 12
+    - [ ] Part I  
+    - [ ] Part II  
+1. Day 13
+    - [ ] Part I  
+    - [ ] Part II  
+1. Day 14
+    - [ ] Part I  
+    - [ ] Part II  
+1. Day 15
+    - [ ] Part I  
+    - [ ] Part II  
+1. Day 16
+    - [ ] Part I  
+    - [ ] Part II  
