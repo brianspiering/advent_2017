@@ -56,3 +56,6 @@ Advent of Code 2017
 1. [Day 16](day_16.ipynb) 
     - [ ] Part I  
     - [ ] Part II  
+1. [Day 17](day_17.ipynb) 
+    - [ ] Part I  
+    - [ ] Part II  
