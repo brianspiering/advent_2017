@@ -10,7 +10,7 @@ Advent of Code 2017
 
 1. [Day 1](day_01.ipynb) 
     - [x] Part I
-    - [X] PartII  
+    - [X] Part II  
 1. [Day 2](day_02.ipynb) 
     - [x] Part I  
     - [X] Part II  
